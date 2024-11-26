@@ -1,1 +1,0 @@
-/usr/bin/cc -m64 -O3 -DNDEBUG -m64 CMakeFiles/metrics.dir/src/main.c.o CMakeFiles/metrics.dir/src/metrics.c.o CMakeFiles/metrics.dir/src/expose_metrics.c.o -o metrics   -L/home/jorge/.conan2/p/b/cjsonc3e6d09c8e999/p/lib  -Wl,-rpath,/home/jorge/.conan2/p/b/cjsonc3e6d09c8e999/p/lib -lpromhttp -lprom /home/jorge/.conan2/p/b/cjsonc3e6d09c8e999/p/lib/libcjson.a -lm 
