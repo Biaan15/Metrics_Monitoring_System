@@ -19,14 +19,14 @@
                 "CMAKE_BUILD_TYPE": "Release"
             },
             "toolchainFile": "generators/conan_toolchain.cmake",
-            "binaryDir": "/home/bianca/Descargas/Trabajo Practico 2/so-i-24-chp2-Biaan15/Metrics_Monitoring_System/build/build/Release"
+            "binaryDir": "/home/jorge/Desktop/sistemas-operativos-1/so-i-24-chp2-Jorgear27/Metrics_Monitoring_System/build/build/Release"
         }
     ],
     "buildPresets": [
         {
             "name": "conan-release",
             "configurePreset": "conan-release",
-            "jobs": 1
+            "jobs": 16
         }
     ],
     "testPresets": [

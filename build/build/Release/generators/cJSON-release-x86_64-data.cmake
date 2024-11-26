@@ -12,7 +12,7 @@ endif()
 
 ########### VARIABLES #######################################################################
 #############################################################################################
-set(cjson_PACKAGE_FOLDER_RELEASE "/home/bianca/.conan2/p/cjson6327cae75126a/p")
+set(cjson_PACKAGE_FOLDER_RELEASE "/home/jorge/.conan2/p/b/cjsonc3e6d09c8e999/p")
 set(cjson_BUILD_MODULES_PATHS_RELEASE )
 
 

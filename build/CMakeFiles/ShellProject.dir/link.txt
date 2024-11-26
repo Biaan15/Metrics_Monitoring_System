@@ -1,1 +1,0 @@
-/usr/bin/cc -m64 -g -O0 -Wall -Wpedantic -Werror -Wextra -Wunused-parameter -Wmissing-prototypes -Wstrict-prototypes -fhardened -m64 CMakeFiles/ShellProject.dir/src/main.c.o -o ShellProject   -L/home/bianca/.conan2/p/b/cjsonbbf3bbbafadda/p/lib  -Wl,-rpath,/home/bianca/.conan2/p/b/cjsonbbf3bbbafadda/p/lib /home/bianca/.conan2/p/b/cjsonbbf3bbbafadda/p/lib/libcjson.a -lm
