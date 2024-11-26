@@ -1,4 +1,4 @@
-script_folder="/home/bianca/Descargas/Trabajo Practico 2/so-i-24-chp2-Biaan15/build/build/Release/generators"
+script_folder="/home/bianca/Descargas/Trabajo Practico 2/so-i-24-chp2-Biaan15/Metrics_Monitoring_System/build/build/Release/generators"
 echo "echo Restoring environment" > "$script_folder/deactivate_conanrunenv-release-x86_64.sh"
 for v in 
 do
