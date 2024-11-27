@@ -1,3 +1,0 @@
-/home/bianca/Descargas/Trabajo Practico 2/so-i-24-chp2-Biaan15/Metrics_Monitoring_System/build/CMakeFiles/metrics.dir
-/home/bianca/Descargas/Trabajo Practico 2/so-i-24-chp2-Biaan15/Metrics_Monitoring_System/build/CMakeFiles/edit_cache.dir
-/home/bianca/Descargas/Trabajo Practico 2/so-i-24-chp2-Biaan15/Metrics_Monitoring_System/build/CMakeFiles/rebuild_cache.dir
