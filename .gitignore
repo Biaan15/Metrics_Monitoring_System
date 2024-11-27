@@ -2,9 +2,9 @@
 *.d
 
 # Object files
-*.o
+*.o 
 *.ko
-*.obj
+*.obj 
 *.elf
 
 # Linker output
@@ -17,20 +17,20 @@
 *.pch
 
 # Libraries
-*.lib
+*.lib 
 *.a
-*.la
+*.la 
 *.lo
 
-# Shared objects (inc. Windows DLLs)
+# Shared objects
 *.dll
 *.so
 *.so.*
 *.dylib
 
 # Executables
-*.exe
-*.out
+*.exe 
+*.out 
 *.app
 *.i*86
 *.x86_64
@@ -51,11 +51,11 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# environment
-.env
+# enviroment
+.env 
 venv/
 
-# build directory
+#build directory
 build/
 
 # vscode
@@ -63,3 +63,4 @@ build/
 
 # Specific
 CMakeUserPresets.json
+
